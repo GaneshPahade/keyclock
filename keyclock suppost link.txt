@@ -1,0 +1,1 @@
+https://keycloak.discourse.group/t/not-able-to-change-keycloak-10-0-1-databace-configuration-from-h2-to-postgresql/2873/12
